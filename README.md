@@ -19,7 +19,10 @@
 **Верстка**
 + Бэм методология 
 + Использование семантических тегов
-+ 
+
+**Сылка на проект  [github page](https://sanyaman.github.io/ "sanyaman")! 
+
+
 
  ![image](https://user-images.githubusercontent.com/119109046/209814939-b0ed925f-de6a-44b4-9d14-d9c14db9fd51.png)
 
