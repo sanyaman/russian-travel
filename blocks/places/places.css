@@ -5,22 +5,31 @@
   margin: 92px 148px 0 148px;
   padding: 0;
 }
-@media screen and (max-width: 1024px) {
+
+
+
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+.places {
+  width: 928px;
+  padding-top: 92px;
+  margin: 0 auto;
+}
+}
+
+
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
   .places {
-    margin: 92px 48px 0 48px;
+    margin: 88px 24px 0 24px;
   }
 }
-@media screen and (max-width: 768px) {
-  .places {
-    width: 720px;
-    padding-top: 88px;
-    margin: 0 24px 0 24px;
-  }
-}
-@media screen and (max-width: 320px) {
+
+@media screen and (max-width: 767px) {
   .places {
     margin: 0;
     padding: 64px 0 0 0;
     row-gap: 50px;
+    width: 320px;
   }
 }

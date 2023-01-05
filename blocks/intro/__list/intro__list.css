@@ -7,8 +7,10 @@
   padding: 33px 0 0 0;
   margin: 0;
 }
-@media screen and (max-width: 320px) {
+/*@media screen and (max-width: 767px) {
   .intro__list {
-    margin: 0;
+    margin: 0;  delete 
   }
 }
+*/
+

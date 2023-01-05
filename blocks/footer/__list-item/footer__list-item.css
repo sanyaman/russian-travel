@@ -4,7 +4,7 @@
 .footer__list-item:nth-of-type(5n) {
   padding-bottom: 0;
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
   .footer__list-item {
     padding-bottom: 32px;
   }

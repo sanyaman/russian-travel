@@ -6,12 +6,20 @@
   line-height: 14px;
   letter-spacing: 1.5px;
   text-transform: uppercase;
-  margin: 0;
-  padding-top: 8px;
+  margin: 8px 0 0 0;
   align-self: flex-start;
 }
-@media screen and (max-width: 320px) {
+@media screen and (min-width: 768px) and (max-width: 1023px) {
   .lead__caption {
-    padding-left: 16px;
+  /* padding-left: 16px;*/
+    margin:0 0 0 24px;
   }
 }
+@media screen and (max-width: 767px) {
+  .lead__caption {
+  /* padding-left: 16px;*/
+    margin:0 0 0 16px;
+  }
+}
+
+/* на ширине 768рх элемент не должен примыкать к краю экрана https://i.imgur.com/s8Sf74z.pngg */

@@ -3,20 +3,22 @@
   padding: 10px 0 0 0;
   margin: 0;
   list-style: none;
-  width: 77px;
 }
+/*
 @media screen and (max-width: 1024px) {
   .header__lang {
     width: 75px;
   }
 }
+
 @media screen and (max-width: 768px) {
   .header__lang {
-    width: 75px;
   }
 }
-@media screen and (max-width: 320px) {
+
+@media screen and (max-width: 767px) {
   .header__lang {
     width: 60px;
   }
 }
+*/

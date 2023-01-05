@@ -12,24 +12,23 @@
   margin: auto;
   object-fit: cover;
 }
-@media screen and (max-width: 1024px) {
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
   .cover {
     width: 1024px;
     min-height: 640px;
   }
 }
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 768px) and (max-width: 1023px) {
   .cover {
-    width: 768px;
-    min-height: 480px;
+      width: 768px;
+      min-height: 480px;
   }
-}
-@media screen and (max-width: 320px) {
+  }
+
+@media screen and (max-width: 767px) {
   .cover {
-    max-width: 320px;
+    width: 320px;
     min-height: 200px;
-    margin-left: 0;
-    margin-right: 0;
-    margin-top: 66px;
   }
 }
+
