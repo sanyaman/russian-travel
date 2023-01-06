@@ -22,19 +22,6 @@
 }
 
 
-/*@media screen and (max-width: 1024px) {
-  .place {
-    grid-template-columns: 440px auto;
-    grid-template-rows: repeat(2, auto);
-    column-gap: 32px;
-    padding-bottom: 80px;
-  }
-    .place:nth-of-type(5n) {
-    padding-bottom: 92px;
-  }
-}
-*/
-
 @media screen and (min-width: 768px) and (max-width: 1023px) {
   .place {
     grid-template-columns: 340px auto;

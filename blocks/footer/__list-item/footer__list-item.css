@@ -7,5 +7,6 @@
 @media screen and (max-width: 767px) {
   .footer__list-item {
     padding-bottom: 32px;
+    padding-left: 16px;
   }
 }

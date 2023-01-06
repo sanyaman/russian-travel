@@ -4,21 +4,3 @@
   margin: 0;
   list-style: none;
 }
-/*
-@media screen and (max-width: 1024px) {
-  .header__lang {
-    width: 75px;
-  }
-}
-
-@media screen and (max-width: 768px) {
-  .header__lang {
-  }
-}
-
-@media screen and (max-width: 767px) {
-  .header__lang {
-    width: 60px;
-  }
-}
-*/

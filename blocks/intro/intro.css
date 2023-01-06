@@ -26,12 +26,3 @@
     padding-top: 64px;
   }
 }
-/*@media screen and (max-width: 320px) {
-  .intro {
-    width: 288px;
-    padding: 0;
-    margin: 64px 16px 0 16px;
-  }
-}
-*/
-/* между брейкпойнтами 320 элемент не должен примыкать к краю экрана */

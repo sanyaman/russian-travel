@@ -7,9 +7,6 @@
   line-height: 28px;
 }
 
-/* проверить буквы на 320 */
-
-
 
 @media screen and (max-width: 767px) {
   .header__lang-link {

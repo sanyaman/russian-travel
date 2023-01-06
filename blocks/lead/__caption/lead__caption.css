@@ -11,15 +11,12 @@
 }
 @media screen and (min-width: 768px) and (max-width: 1023px) {
   .lead__caption {
-  /* padding-left: 16px;*/
     margin:0 0 0 24px;
   }
 }
 @media screen and (max-width: 767px) {
   .lead__caption {
-  /* padding-left: 16px;*/
     margin:0 0 0 16px;
   }
 }
 
-/* на ширине 768рх элемент не должен примыкать к краю экрана https://i.imgur.com/s8Sf74z.pngg */

@@ -21,17 +21,11 @@
     padding-top: 88px;
   }
 }
-/* @media screen and (max-width: 768px) {
-  .footer {
-    width: 720px;
-    padding-top: 88px;
-  }
-} */
+
 @media screen and (max-width: 767px) {
   .footer {
     width: 100%;
     flex-direction: column;
-    padding: 64px 0 24px 16px;
- 
+    padding: 64px 0 24px 0;
   }
 }
