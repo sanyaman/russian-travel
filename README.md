@@ -64,7 +64,7 @@
 
  
 
-  Сылка на проект  [github page](https://sanyaman.github.io/russian-travel/)! 
+ + Сылка на проект  [github page](https://sanyaman.github.io/russian-travel/)! 
  
  
  
