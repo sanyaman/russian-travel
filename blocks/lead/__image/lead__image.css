@@ -14,7 +14,7 @@
 @media screen and (min-width: 768px) and (max-width: 1023px) {
   .lead__image {
     margin-top: 56px;
-    width: 768px;
+    width: 100%; /*rev3*/
     
   }
 }

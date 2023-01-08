@@ -9,18 +9,20 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin: auto;
+  margin:  auto;
   object-fit: cover;
 }
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
   .cover {
-    width: 1024px;
+    width: 100%; /*rev3*/
     min-height: 640px;
+    
   }
 }
 @media screen and (min-width: 768px) and (max-width: 1023px) {
   .cover {
-      width: 768px;
+      width: 100%; /*rev3*/
+
       min-height: 480px;
   }
   }
